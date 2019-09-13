@@ -1,0 +1,2 @@
+# blog
+Kişisel Günlük
